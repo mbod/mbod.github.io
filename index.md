@@ -1,4 +1,4 @@
 ## My webpage
 
-find out ![about me here](about)
+find out [about me here](about)
 
